@@ -1,0 +1,15 @@
+
+<ion-menu side="start" menuId="first">
+  <ion-header>
+    <ion-toolbar color="primary">
+      <ion-title [routerLink]= "['/home']">retour</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-list *ngFor="let menuu of category">
+      <ion-item> {{menuu}}   </ion-item>
+
+      
+    </ion-list>
+  </ion-content>
+</ion-menu>

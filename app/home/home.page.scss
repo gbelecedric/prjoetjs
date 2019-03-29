@@ -1,0 +1,93 @@
+
+
+    .b{
+        padding: 4px 25px!important;
+        
+        border:2px solid #fff!important;
+        background:none!important;
+        outline:none!important;
+        cursor:pointer!important;
+        box-sizing:border-box!important;
+        float: left!important;
+        color: #fff!important;
+       }
+       .nav-bar{
+           margin-bottom: 0;
+   
+   border-top: 3px solid #f4b305;
+       }
+       .nav-bar{
+           border-radius: 0;
+           background-color: #373737;
+       }
+       .nav-bar{
+          position: fixed;
+        top: 0;
+        left: 0;
+       width: 100%;
+       padding: .5em 0;
+   
+       }
+   .nom_resto{
+       padding-top: 63px;
+       padding: 4.5em 0 0em;
+       text-align: center;
+      background: #007bcf;
+      width: 100%;
+     
+   }
+   .nom_container{
+       padding: .5em 1em;
+       margin-top:-30px;
+       
+   }
+   .nom_resto h1 a{
+       font-size: .7em;
+   }
+   .nom_resto h1 a{
+   color: #fff;
+   text-decoration: none;
+   position: relative;
+   display: inline-block;
+   } 
+   h1 {
+       margin-top: 0px;
+       margin-bottom: 0px;
+   } 
+   .p-resto{
+       background-image: url('/assets/image/banner1.jpg');
+       width: 100%;
+       min-height: 125px;
+   
+   }
+   
+   .dif-menu{
+    padding: 2em 0;
+   }
+   .container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+   }
+   .food-grid{
+    margin: 2em 0 0;
+   }
+   .img_grid{
+    width: 100%;
+   }
+.responsive{
+    max-width: 100%;
+height: auto;
+   
+}
+img {
+
+    display: block;
+    position: relative;
+
+
+        vertical-align: middle;
+    
+        border: 0;
+}
